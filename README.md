@@ -2,7 +2,7 @@
 
 **A free, bilingual budgeting tool that scores how sustainable your budget is, not how "good" you are.**
 
-👉 **Try it live:** https://albertoavila.github.io/Budgetfy/](https://albertoavilaemail-design.github.io/Budgetfy/
+👉 **Try it live:** https://albertoavilaemail-design.github.io/Budgetfy/
 
 ![Budgetfy sustainability meter](screenshot.png)
 
